@@ -1,0 +1,28 @@
+.img
+{
+    float: right;
+}
+.p
+{
+    background-color: rgb(147, 137, 137);
+    text-decoration-color: white;
+    outline-color: white;
+    border-color: grey;
+}
+.hi
+{
+    border-color: grey;
+    outline-color: white;
+}
+
+ol h5
+{
+	background: white;
+    padding: 13px;
+    border-radius: 20px;
+}
+
+li img
+{
+	border-radius: 20px;
+}
